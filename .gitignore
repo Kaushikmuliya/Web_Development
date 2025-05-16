@@ -1,0 +1,17 @@
+# Ignore log files
+*.log
+
+# Ignore environment variable files (for secrets/config)
+.env
+
+# Ignore system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore build or distribution folders (if your project generates these)
+dist/
+build/
+
+# Ignore IDE/editor settings folders
+.vscode/
+.idea/
